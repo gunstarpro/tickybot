@@ -237,7 +237,7 @@ body{
   row-gap: 10px;
   background-color: #40596b;
 }
-@media(max-width: 924.8px){
+@media only screen and (max-width: 924.8px){
   .home-page{
     grid-template-columns: 1fr;
   }
